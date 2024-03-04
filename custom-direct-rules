@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,morganstanley.com
+  
+  # vps
+  - IP-CIDR,207.46.139.201
+  - IP-CIDR,43.198.124.7
+  - IP-CIDR,52.198.184.25
+  - IP-CIDR,3.0.251.249
